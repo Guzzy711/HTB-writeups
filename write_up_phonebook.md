@@ -49,7 +49,7 @@ the api response is:
         "updateTime": "2021-02-26T09:41:12.161Z"
       },
       {
-        "type": "PROFILE",
+        "type": "PROFILE",s
         "id": "117395327982835488254",
         "etag": "#4eZz2/IuMFw=",
         "profileMetadata": {
